@@ -1,12 +1,4 @@
-# This is a large heading
+# game
+date of creation : 28 june 2020
 
-## This is a smaller heading
-
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
-
-- This is
-- an unordered
-- list
+no of code lines : 50
